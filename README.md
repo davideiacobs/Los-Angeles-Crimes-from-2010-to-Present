@@ -1,4 +1,4 @@
-# Data Analysis on Los-Angeles-Crimes-from-2010-to-Present Dataser
+# Data Analysis on Los-Angeles-Crimes-from-2010-to-Present Dataset
 This dataset describes crimes in the City of Los Angeles dating back to 2010. This data is transcribed from original crime reports that are typed on paper and therefore there may be some inaccuracies within the data.
 
 The dataset refers to the last update of June 02, 2018 and contains 26 columns and 1751418 rows, each of which corresponds to a crime incident.
